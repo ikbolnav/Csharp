@@ -11,7 +11,7 @@ namespace d1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello life!");
-            Console.ReadKey();
+            Console.ReadKey();  //this is coment
         }
     }
 }
